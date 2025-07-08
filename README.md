@@ -69,7 +69,7 @@
 <table>
 <tr>
 <td>
-<img height="180em" src="https://github-readme-stats-chi-ten-31.vercel.app/api?username=happy704&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats-chi-ten-31.vercel.app/api?username=happy704&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" />
 </td>
 <td>
 <img height="180em" src="https://github-readme-stats-chi-ten-31.vercel.app/api/top-langs/?username=happy704&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff" />
