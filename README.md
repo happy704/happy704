@@ -1,6 +1,6 @@
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=HI+there!;Im+Woojun+Choi+(happy704),+CEO+of+LUCY+STUDIO.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=HI+there!;I'm+Woojun+Choi+(happy704),+CEO+of+LUCY+STUDIO.)
 
 </div>
 
