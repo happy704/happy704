@@ -10,7 +10,7 @@
 
 
 
-<img src="https://media.discordapp.net/attachments/1284835584732565608/1384872567940186163/banner.webp?ex=686e6095&is=686d0f15&hm=a09f0d46b41dadd6c5ec0f4ab755d9436336de1bb0e9bb92abc694af18a2c924&=&animated=true" alt="lucystudio1"/>
+<img src="https://raw.githubusercontent.com/happy704/happy704/refs/heads/main/img/banner.webp" alt="lucystudio1"/>
 <br><br>
 <a href="https://lucystudio.kr/">
 <img src="https://img.shields.io/badge/🏢-LUCY_STUDIO-5865f2?style=for-the-badge&logoColor=white&labelColor=5865f2" alt="LUCY STUDIO"/>
