@@ -113,7 +113,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![AMD](https://img.shields.io/badge/AMD-Ryzen_5_7500F-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-RTX_4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![RAM](https://img.shields.io/badge/RAM-32GB-FF6B35?style=for-the-badge&logo=memory&logoColor=white)
+![RAM](https://img.shields.io/badge/RAM-128GB-FF6B35?style=for-the-badge&logo=memory&logoColor=white)
 
 </div>
 
