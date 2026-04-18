@@ -120,9 +120,6 @@ const woojun = {
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=happy704&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true)
 
-<br/>
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=happy704&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/happy704)
 
 </div>
 
