@@ -33,15 +33,15 @@ const woojun = {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/paveuniverse.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=667eea" />
+<a href="https://paveuniverse.com"><img src="https://img.shields.io/badge/paveuniverse.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=667eea" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/happy704@paveuniverse.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+<a href="mailto:happy704@paveuniverse.com"><img src="https://img.shields.io/badge/happy704@paveuniverse.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/070--7642--1001-0d1117?style=for-the-badge&logo=phone&logoColor=57F287" />
+<a href="tel:07076421001"><img src="https://img.shields.io/badge/070--7642--1001-0d1117?style=for-the-badge&logo=phone&logoColor=57F287" /></a>
 
 <br/><sub>Business Registration No. <code>195-48-01139</code> &nbsp;|&nbsp; Mail-Order Business No. <code>2024-경남김해-1130</code></sub>
 <br/><br/>
-<a href="https://lucystudio.kr/">
+<a href="https://paveuniverse.com">
   <img src="https://img.shields.io/badge/🏢%20PAVE_CO.-5865F2?style=for-the-badge&logoColor=white" alt="PAVE CO."/>
 </a>
 &nbsp;
