@@ -23,7 +23,7 @@ const woojun = {
   location : "South Korea 🇰🇷",
   focus    : ["Game Development", "Cloud Infrastructure", "Web Services"],
   building : "Scalable Minecraft network, cloud platform & web marketplace",
-  contact  : "https://happy704.xyz",
+  contact  : "https://paveuniverse.com/profile/happy704",
 };
 ```
 
