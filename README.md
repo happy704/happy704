@@ -49,11 +49,11 @@ const woojun = {
   <img src="https://img.shields.io/badge/🎮%20LUCY_NETWORK-57F287?style=for-the-badge&logoColor=white" alt="LUCY NETWORK"/>
 </a>
 &nbsp;
-<a href="https://cloud.lucystudio.kr/">
+<a href="https://cloud.paveuniverse.com/">
   <img src="https://img.shields.io/badge/☁️%20LUCY_CLOUD-FFD43B?style=for-the-badge&logoColor=black" alt="LUCY CLOUD"/>
 </a>
 &nbsp;
-<a href="https://store.lucystudio.kr/marketplace">
+<a href="https://store.paveuniverse.com">
   <img src="https://img.shields.io/badge/🛍️%20LUCY_STORE-F38BA8?style=for-the-badge&logoColor=white" alt="LUCY STORE"/>
 </a>
 <br/><br/>
